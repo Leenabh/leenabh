@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Leena Bhai, currently working in Tableau, StatIQ in AnitaB.org and learning Data Science from Berkeley's School of Information.</div>  
+### <div align="center">I'm Leena Bhai, learning Data Science from Berkeley's School of Information.</div>  
   
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently currently working in Tableau, StatIQ in AnitaB.org
   
 
 - 🌱 I’m currently learning Artificial Intelligence.
