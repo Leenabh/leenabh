@@ -3,14 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Leena Bhai, learning Data Science from Berkeley's School of Information.</div>  
+### <div align="center">Welcome! </div>  
   
 
-- 🔭 I’m currently currently working in Tableau, StatIQ in AnitaB.org
-  
-
-- 🌱 I’m currently learning Artificial Intelligence.
-  
+- 🔭 Strong in Data Analysis, Data Modeling and Data Visualization
 
 - ❓ Ask me about anything related to Tableau and related technologies    
 
@@ -24,14 +20,10 @@
 
 ### Data analysis  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="50" /> 
 </div>  
 
 
